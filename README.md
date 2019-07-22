@@ -1,6 +1,6 @@
 # Salt Dome Interpretation Tool
 
-At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](www.ghassanalregib.com), we are conducting research on the automation of seismic interpretation for post-migrated seismic volumes using advanced pattern recognition, machine learning, and human vision system models. The Graphical User Interface (GUI) for visualizing, testing, and benchmarking various algorithms for salt dome delineation is now available to download. This version (v1.0) of the GUI compares different salt dome delineation algorithms.
+At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](https://ghassanalregib.com/), we are conducting research on the automation of seismic interpretation for post-migrated seismic volumes using advanced pattern recognition, machine learning, and human vision system models. The Graphical User Interface (GUI) for visualizing, testing, and benchmarking various algorithms for salt dome delineation is now available to download. This version (v1.0) of the GUI compares different salt dome delineation algorithms.
 
 We seek your feedback and suggestions. You are also welcome to send your salt dome delineation algorithms to include in the GUI for benchmarking, and comparison with other algorithms.
 
