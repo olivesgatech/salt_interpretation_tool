@@ -22,7 +22,8 @@ Salient Features of the GUI:
 * Objective evaluation of the results of different salt dome delineation algorithms
 * Interactive salt dome boundary correction
 
-### References 
+
+
 [Netherland’s offshore, F3 block in the North Sea]: https://opendtect.org/osr/pmwiki.php/Main/NetherlandsOffshoreF3BlockComplete4GB
 
 [2D GoT by Wang et al.]: https://library.seg.org/doi/abs/10.1190/geo2015-0116.1 "Z. Wang, T. Hegazy, Z. Long, and G. AlRegib, “Noise-robust Detection and Tracking of Salt Domes in Post-migrated Volumes Using Texture, Tensors, and Subspace Learning,” Geophysics, 80(6), WD101-WD116"
@@ -33,7 +34,7 @@ Salient Features of the GUI:
 
 [Texture attributes by Berthelot et al.]: https://www.sciencedirect.com/science/article/pii/S0926985112001632 "A. Berthelot, A. HS Solberg, and L. J. Gelius, “Texture attributes for detection of salt,” Journal of Applied Geophysics, vol. 88, pp. 52–69, 2013"
 
-[Codebook by Amin et al.]: https://ieeexplore.ieee.org/abstract/document/7552570/ "A. Amin and Mohamed Deriche, "Salt-dome detection using a codebook-based learning model," IEEE Geoscience and Remote Sensing Letters, vol. 13, no. 11, pp. 1636–1640, 2016"
+[Codebook by Amin et al.]: https://ieeexplore.ieee.org/abstract/document/7552570/ "A. Amin and Mohamed Deriche, “Salt-dome detection using a codebook-based learning model,” IEEE Geoscience and Remote Sensing Letters, vol. 13, no. 11, pp. 1636–1640, 2016"
 
 [Active Contour by Shafiq et al.]: https://ieeexplore.ieee.org/abstract/document/7418265/ "M. Shafiq, Z. Wang, and G. AlRegib, “Seismic interpretation of migrated data Using edge-based geodesic active contours,” in Proc. IEEE Global Conf. on Signal and Information Processing (GlobalSIP), Orlando, Florida, Dec. 14-16, 2015."
 
